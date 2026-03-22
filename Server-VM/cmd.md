@@ -1,5 +1,4 @@
-# CMD Cheat Sheet (CP)
-
+# CMD
 Bu fayl Windows CMD uchun asosiy va amaliy buyruqlarni jamlaydi.
 
 ## 1) Asosiy buyruqlar

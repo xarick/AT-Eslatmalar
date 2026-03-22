@@ -1,5 +1,4 @@
-# SSH Cheat Sheet (CP)
-
+# SSH
 Bu fayl SSH ulanish, tunnel va remote app ishga tushirish bo'yicha amaliy eslatma.
 
 ## 1) Oddiy SSH ulanish

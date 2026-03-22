@@ -1,5 +1,4 @@
-# Terminal Cheat Sheet (CP)
-
+# Terminal
 Bu fayl Linux terminal buyruqlari bo'yicha amaliy eslatma.
 
 ## 1) Navigatsiya va umumiy buyruqlar

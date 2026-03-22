@@ -4,19 +4,20 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 ### Languages
 
 - **[GO](Languages/go.md)**
-- **[PHP]()**
-- **[Python]()**
+- **[Rust](Languages/rust.md)**
+- **PHP**
+- **Python**
 
 ### Frontend
 
-- **[NodeJs]()**
-- **[Javascript]()**
+- **NodeJs**
+- **Javascript**
 
 ### Backend
 
-- **[FastAPI]()**
-- **[Django]()**
-- **[Laravel]()**
+- **[FastAPI](Backend/fastapi.md)**
+- **Django**
+- **Laravel**
 
 ### Databases
 
@@ -37,7 +38,7 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Networking
 
-- **[CCNA]()**
+- **CCNA**
 
 ### Others
 
