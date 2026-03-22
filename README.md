@@ -9,12 +9,12 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Frontend
 
-- **[HTML]()**
-- **[CSS]()**
+- **[NodeJs]()**
 - **[Javascript]()**
 
 ### Backend
 
+- **[FastAPI]()**
 - **[Django]()**
 - **[Laravel]()**
 
