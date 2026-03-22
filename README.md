@@ -31,9 +31,9 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Server & VM
 
-- **[CMD]()**
-- **[Linux]()**
-- **[Windows Server]()**
+- **[CMD](Server-VM/cmd.md)**
+- **[Linux Terminal](Server-VM/terminal.md)**
+- **[SSH](Server-VM/ssh.md)**
 
 ### Networking
 
@@ -41,6 +41,5 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Others
 
-- **[Proxy](Others/PROXY.md)**
-- **[Curl]()**
-- **[Regular expressions]()**
+- **[Proxy](Others/proxy.md)**
+- **[Regular Expressions](Others/regex.md)**
