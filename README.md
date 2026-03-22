@@ -30,7 +30,8 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 ### DevOps
 
 - **[Git](DevOps/git.md)**
-- **[Docker]()**
+- **[Docker](DevOps/docker.md)**
+- **[Docker Setup](DevOps/docker-setup.md)**
 
 ### Server & VM
 
