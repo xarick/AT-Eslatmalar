@@ -22,10 +22,8 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Databases
 
-- **[SQL]()**
-- **[SQLite]()**
-- **[PostgreSQL]()**
-- **[PL/SQL](Databases/PL-SQL.md)**
+- **[SQL](Databases/sql.md)**
+- **[PL/SQL](Databases/pl-sql.md)**
 
 ### DevOps
 

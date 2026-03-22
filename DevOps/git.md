@@ -1,4 +1,4 @@
-# Git Cheat Sheet (CP)
+# Git
 
 Bu fayl Git bilan kundalik ishlash uchun qisqa va amaliy qo'llanma.
 

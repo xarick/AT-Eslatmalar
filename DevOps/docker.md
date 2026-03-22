@@ -1,4 +1,4 @@
-# Docker Cheat Sheet (CP)
+# Docker
 
 Bu fayl Docker bilan kundalik ishlash uchun qisqa va amaliy buyruqlar toplami.
 
