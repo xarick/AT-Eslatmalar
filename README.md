@@ -3,8 +3,7 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Languages
 
-- **[C#]()**
-- **[GO]()**
+- **[GO](Languages/go.md)**
 - **[PHP]()**
 - **[Python]()**
 
@@ -16,7 +15,6 @@ Bu yerda axborot texnologiyalari bo‘yicha foydali eslatmalarni topishingiz mum
 
 ### Backend
 
-- **[Gin]()**
 - **[Django]()**
 - **[Laravel]()**
 
